@@ -7,7 +7,7 @@ Pushing TabPFN Beyond Ten Classes: Benchmarking on Real-World Malware Datasets
 
 ![Licence](https://img.shields.io/badge/license-MIT-green)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![TabPFN](https://img.shields.io/badge/version-2.2.1-blue)
 
 ---
 
